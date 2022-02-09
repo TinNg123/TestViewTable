@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         
         animalTableView.delegate = self
         animalTableView.dataSource = self
+        print("A")
         
     }
     
